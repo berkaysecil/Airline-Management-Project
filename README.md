@@ -28,16 +28,14 @@ First one is Flights, it works for saving, editing or deleting the flights;
 
 Second section is Passengers, it works for editing or deleting the passengers;
 
-<img width="1002" alt="Screen Shot 2021-12-19 at 02 03 59" src="https://user-images.githubusercontent.com/57411917/146658008-01209170-8167-4b6c-9e49-41236cff6abc.png">
-
+<img width="1002" alt="Screen Shot 2021-12-19 at 02 25 54" src="https://user-images.githubusercontent.com/57411917/146658133-33513dbf-8d91-4118-ba3e-5c08a5d7cc1b.png">
 Third one is Cancellation, if you'd like to cancel flight, you can do it on this section;
 
 <img width="1002" alt="Screen Shot 2021-12-19 at 02 04 06" src="https://user-images.githubusercontent.com/57411917/146658032-774f8bad-895d-4d88-9e10-7a39fc1b7c52.png">
 
 And the last one is Tickets, it works for booking flight tickets;
 
-<img width="1002" alt="Screen Shot 2021-12-19 at 02 04 12" src="https://user-images.githubusercontent.com/57411917/146658059-f277a072-536d-413a-b1a3-abc01a49d81e.png">
-
+<img width="1002" alt="Screen Shot 2021-12-19 at 02 26 12" src="https://user-images.githubusercontent.com/57411917/146658123-aa8bd313-cae0-441f-b0a7-a848d179864b.png">
 
 
 
