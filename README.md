@@ -53,6 +53,8 @@
 
 <img width="648" alt="Screen Shot 2021-12-19 at 14 51 20" src="https://user-images.githubusercontent.com/57411917/146673867-9e14d4dd-4eea-4884-a4e3-41c05cfaa38c.png">
 
+<img width="643" alt="Screen Shot 2021-12-19 at 15 00 21" src="https://user-images.githubusercontent.com/57411917/146674144-20bd8c1b-cd42-40ba-892a-cda378427ef8.png">
+
 <img width="648" alt="Screen Shot 2021-12-19 at 14 52 56" src="https://user-images.githubusercontent.com/57411917/146673887-f60bf5f5-aea6-4afe-a30b-9b88b37611f4.png">
 
 # next page is main form for passenger;
