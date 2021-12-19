@@ -37,15 +37,16 @@ public class Splash extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setUndecorated(true);
 
-        jPanel1.setBackground(new java.awt.Color(0, 255, 255));
+        jPanel1.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel1.setBackground(new java.awt.Color(51, 204, 255));
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/plane.jpeg"))); // NOI18N
 
         jLabel2.setFont(new java.awt.Font("Bangla MN", 3, 48)); // NOI18N
+        jLabel2.setForeground(new java.awt.Color(255, 51, 0));
         jLabel2.setText("ABS Airline");
 
-        MyProgressBar.setForeground(new java.awt.Color(255, 153, 102));
+        MyProgressBar.setForeground(new java.awt.Color(0, 255, 255));
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -125,7 +126,7 @@ public class Splash extends javax.swing.JFrame {
             }
         } catch (Exception e) {
         }
-        new Login().setVisible(true);
+        new AdminType().setVisible(true);
         splash.dispose();
         
     }
